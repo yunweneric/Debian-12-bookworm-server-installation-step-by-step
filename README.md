@@ -13,6 +13,40 @@ Whether you're installing a home server or preparing a production environment, t
 
 ---
 
+## 📑 Table of Contents
+
+- [Introduction](#-introduction)
+- [Full Step-by-Step Installation Process](#-full-step-by-step-installation-process)
+  - [1. Choose Installation Method](#1-choose-installation-method)
+  - [2. Select Language](#2-select-language)
+  - [3. Select Location (Country)](#3-select-location-country)
+  - [4. Configure Locales](#4-configure-locales)
+  - [5. Configure Keyboard](#5-configure-keyboard)
+  - [6. Configure Hostname](#6-configure-hostname)
+  - [7. Configure Domain Name](#7-configure-domain-name)
+  - [8. Set Up a Root Password](#8-set-up-a-root-password)
+  - [9. Create a User Account](#9-create-a-user-account)
+  - [10. Select Username](#10-select-username)
+  - [11. Set User Password](#11-set-user-password)
+  - [12. Partition Disks](#12-partition-disks)
+  - [13. Install the Base System](#13-install-the-base-system)
+  - [14. Configure the Package Manager](#14-configure-the-package-manager)
+  - [15. Configure a Network Mirror](#15-configure-a-network-mirror)
+  - [16. Configure an HTTP Proxy](#16-configure-an-http-proxy)
+  - [17. Participate in Survey](#17-participate-in-survey)
+  - [18. Software Selection](#18-software-selection)
+  - [19. Install GRUB](#19-install-grub)
+  - [20. Finish Installation](#20-finish-installation)
+- [Post-Installation Configuration](#-post-installation-configuration)
+  - [21. Connect to the Server After Reboot](#21-connect-to-the-server-after-reboot)
+  - [22. Modify the APT Sources List](#22-modify-the-apt-sources-list)
+  - [23. Update and Upgrade](#23-update-and-upgrade)
+  - [24. Install sudo command](#24-install-sudo-command)
+  - [25. Add your user to sudo group](#25-add-your-user-to-sudo-group)
+- [Summary](#-summary)
+
+---
+
 ## 🧩 Full Step-by-Step Installation Process
 
 ### **1. Choose Installation Method**
